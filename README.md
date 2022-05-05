@@ -1,0 +1,1 @@
+# DayZ-Disable-Stamina
